@@ -1,5 +1,5 @@
+import { rm } from 'node:fs/promises';
 import { execa } from 'execa';
-import { rm } from 'fs/promises';
 import { temporaryDirectory } from 'tempy';
 import { normalizePath } from '../lib/fs.js';
 import { sleep } from '../lib/sleep.js';
