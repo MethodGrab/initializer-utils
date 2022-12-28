@@ -1,6 +1,6 @@
 # initializer-utils
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MethodGrab/initializer-utils/CI?style=flat-square)](https://github.com/MethodGrab/initializer-utils/actions/workflows/CI.yaml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MethodGrab/initializer-utils/CI.yaml?branch=main&style=flat-square)](https://github.com/MethodGrab/initializer-utils/actions/workflows/CI.yaml)
 [![npm version](https://img.shields.io/npm/v/@methodgrab/initializer-utils?style=flat-square)](https://www.npmjs.com/package/@methodgrab/initializer-utils)
 
 > Utilities for creating [npm initializers](https://docs.npmjs.com/cli/commands/npm-init).
